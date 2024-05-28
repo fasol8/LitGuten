@@ -29,18 +29,18 @@ LitGuten es una aplicación en consola de biblioteca que permite administrar lib
 ## Ejemplos de Uso
 
 ### Busca y guarda libro
-<img src="URL_DE_LA_IMAGEN" alt="Captura de pantalla del Litguten menu 1">
+<img src="https://github.com/fasol8/LitGuten/blob/main/image/menu1.png" alt="Captura de pantalla del Litguten menu 1">
 
 ### Obtener todos los libros
-<img src="URL_DE_LA_IMAGEN" alt="Captura de pantalla del Litguten menu 2">
+<img src="https://github.com/fasol8/LitGuten/blob/main/image/menu2.png" alt="Captura de pantalla del Litguten menu 2">
 
 
 ### Obtener todos los autores
-<img src="URL_DE_LA_IMAGEN" alt="Captura de pantalla del Litguten menu 3">
+<img src="https://github.com/fasol8/LitGuten/blob/main/image/menu3.png" alt="Captura de pantalla del Litguten menu 3">
 
 
 ### Obtener los autores nacidos a partir de un año dado
-<img src="URL_DE_LA_IMAGEN" alt="Captura de pantalla del Litguten menu 4">
+<img src="https://github.com/fasol8/LitGuten/blob/main/image/menu4.png" alt="Captura de pantalla del Litguten menu 4">
 
 ### Obtener el número de libros por idioma
-<img src="URL_DE_LA_IMAGEN" alt="Captura de pantalla del Litguten menu 5">
+<img src="https://github.com/fasol8/LitGuten/blob/main/image/menu5.png" alt="Captura de pantalla del Litguten menu 5">
